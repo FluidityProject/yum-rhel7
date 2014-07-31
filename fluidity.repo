@@ -1,0 +1,5 @@
+[Fluidity]
+name=Fluidity Packages for Enterprise Linux 7 - $basearch
+baseurl=https://raw.githubusercontent.com/FluidityProject/yum-rhel7/master/$basearch
+enabled=1
+gpgcheck=0
